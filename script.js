@@ -8,11 +8,11 @@ function isPalindromo(){
   var string2 = arrayString2.toString();
   
   if (string1 == '') {
-    alert("Escreva uma palavra");
+    alert("Escreva uma palavra!");
   } else if (string1 !== string2){
-    alert("Não é um palíndromo");
+    alert("Não é um palíndromo!");
   } else{
-    alert("É um palíndromo");
+    alert("É um palíndromo!");
   }
 }
   
